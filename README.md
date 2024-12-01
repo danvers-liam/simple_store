@@ -1,2 +1,3 @@
 # simple_store
-Simple store to test using the design system
+
+A new Flutter project. This simple store uses the custom design system
